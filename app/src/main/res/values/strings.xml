@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NathalieRM78629</string>
+    <string name="informe">Inform the ZIP code, please</string>
+    <string name="dica">E. g.: 01001000</string>
+    <string name="pesquisar">search</string>
+    <string name="sobre">about</string>
+
+</resources>
